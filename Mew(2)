@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+</head>
+
+<body>
+
+<h1 style="text-align: center;">Mew and Mewtwo</h1>
+
+<p style="text-align: center;"><img src="https://i.pinimg.com/originals/83/ce/8b/83ce8bbcb4c9fffba0f04d16e07a7915.jpg"></p>
+
+<h2>Who is Mew?</h2>
+<p>According to the Pokedex, Mew is said to possess the genetic composition of all Pokémon. It is capable of making itself invisible at will, so it entirely avoids notice even if it approaches people.</p>
+<dl>
+<dt>Mew moveset includes:<dt>
+<dd>1. Hyper Beam</dd>
+<dd>2. Psychic</dd>
+<dd>3. Dragon Tail</dd>
+<dd>4. Shadow Claw</dd>
+</dl>
+
+<h2>Who is Mewtwo?</h2>
+<p>According to the Pokedex, Mewtwo is a Pokémon that was created by genetic manipulation. However, even though the scientific power of humans created this Pokémon's body, they failed to endow Mewtwo with a compassionate heart.</p>
+<dl>
+<dt>Mewtwo moveset includes:<dt>
+<dd>1. Confusion</dd>
+<dd>2. Psychic</dd>
+<dd>3. Shadow Ball</dd>
+<dd>4. Focus Blast</dd>
+</dl>
+
+
+</body>
+
+</html>
